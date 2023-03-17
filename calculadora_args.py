@@ -1,4 +1,4 @@
-def soma(*args):
+def soma(*args): #redundante, só usar sum() direto - foi apenas para treino
     return sum(args)
 
 def subtracao(*args):
